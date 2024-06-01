@@ -25,8 +25,8 @@
 
 
 
-  <a aria-label="rodylie2_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="Rodylie2TechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="rodylie2_Md is free to use" href="https://www.tiktok.com/@rodylie23?_t=8mogjpcmyov&_r=1" target="_blank">
+    <img alt="Rodylie2TechInfo Yt" src="https://www.tiktok.com/@rodylie23?_t=8mogjpcmyov&_r=1" target="_blank" />
   </a>
 
 </p>
