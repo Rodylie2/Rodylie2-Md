@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Rodylie2 Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://whatsapp.com/channel/0029VaRHRQj1Hsq1dVYRco3Y">
+    <img alt="Rodylie2-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
@@ -25,8 +25,8 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="rodylie2_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="Rodylie2TechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Rodylie2 MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -145,9 +145,9 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *RODYLIE2-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use RODYLIE2-Md at your own risk by keeping this warning in mind.*
 
 
 
