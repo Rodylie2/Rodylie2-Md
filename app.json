@@ -100,7 +100,15 @@
       "description": "Put Sticker Author_Name.",
       "value": "",
       "required": false 
-    }
+    {"required": false
+      }
+    },
+    "addons": [{ "plan": "heroku-postgresql:essential-0" }],
+    "buildpacks": [
+      { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
+      { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+    ]
+  }}
   }, 
   "addons": [{ "plan": "heroku-postgresql:essential-0" }],
   "buildpacks": [
