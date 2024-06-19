@@ -2,7 +2,7 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://whatsapp.com/channel/0029VaRHRQj1Hsq1dVYRco3Y">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
